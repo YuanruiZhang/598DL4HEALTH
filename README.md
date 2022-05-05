@@ -1,6 +1,6 @@
 # 598DLH final
 
-Author's Repo: https://github.com/jasminezhuoy/Clinical-Named-Entity-Recognition-From-Chinese-Electronic-Health-Records
+Author's Repo: https://github.com/jasminezhuoy/Clinical-Named-Entity-Recognition-From-Chinese-Electronic-Health-Records <p>
 Paper: https://medinform.jmir.org/2018/4/e50/
 
 Note:
