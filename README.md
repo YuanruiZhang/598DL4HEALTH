@@ -19,6 +19,7 @@ Note:
   
 
  ## results
+ Device: Macbook pro 2017 2.3GZ i5 cpu
   
 |Window|Ngram|Precision|Recall|   F1   |  runtime |
 |------|-----|---------|------|--------|----------|
