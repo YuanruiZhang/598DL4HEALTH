@@ -15,3 +15,20 @@ Note:
   
   - /Data/
   1. Train and Test datasets
+
+  
+<!--   \begin{table}
+\centering
+\begin{tabular}{lllll}
+Window & Ngram & Precision & Recall & F1\\
+2       & 3          & 0.9211    & 0.8506 & 0.8844\\
+3       & 3          & 0.9211    & 0.8506 & 0.8844\\
+2       & 2          & 0.9173    & 0.744  & 0.8216 
+\end{tabular}
+\end{table} -->
+  
+|Window|Ngram|Precision|Recall|   F1   |  runtime |
+|------|-----|---------|------|--------|----------|
+| 2    | 3   | 0.9211  |0.8506| 0.8844 |  27min   |
+| 3    | 3   | 0.9211  |0.8506| 0.8844 |  29min   |
+| 2    | 2   | 0.9173  |0.744 | 0.8216 |  34min   |
