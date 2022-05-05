@@ -4,7 +4,7 @@ library(readr)
 library(jiebaR)
 library(crfsuite)
 
-start_time <- Sys.time()
+start_time <- Sys.time() #check runtime
 ##### Create bag-of-pos feature
 TAG_jieba <- function(original_text){
   tag <- worker("tag",symbol=TRUE) #Annotator
