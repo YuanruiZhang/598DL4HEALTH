@@ -13,5 +13,5 @@ Note:
   1. Dictionary.R train and evaluate the traditionary method
   2. CRF.R train and evaluate the CRF model.
   
-  -/Data/
-  Train and Test datasets
+  - /Data/
+  1. Train and Test datasets
